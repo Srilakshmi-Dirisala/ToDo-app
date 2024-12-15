@@ -46,8 +46,4 @@ Access the Swagger UI at http://localhost:5000/api-docs.
 License
 This project is open-source and available under the MIT License.
 
-
-1. **Save the file** with the name `README.md`.
-2. **Test it locally or on GitHub** to see if the markdown format is rendered correctly.
-
 Let me know if this works or if there’s another issue!
